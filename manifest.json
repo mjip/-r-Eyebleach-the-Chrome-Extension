@@ -5,7 +5,7 @@
   "description": "Assaults your screen with kittens after reading too much about the big bad scary world",
   "icons": { "128": "bleachbtl.png" },
   "browser_action": {
-  	"default_icon": "bleachbtl.png",
+  	"default_icon": "bleachbtl.png"
   },
   "content_scripts": [
   {
