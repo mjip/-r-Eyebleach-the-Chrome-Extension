@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "/r/Eyebleach, the Chrome Extension",
+  "version": "0.1",
+  "description": "Assaults your screen with kittens after reading too much about the big bad scary world",
+  "icons": { "128": "bleachbtl.png" },
+  "content_scripts": [
+  {
+    "matches": [
+      "<all_urls>"
+    ],
+    "js": ["content.js"]
+  }
+]
+}
+
