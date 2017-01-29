@@ -1,5 +1,5 @@
 # McHacks-2017
-McHacks project by Marie Payne, Léa Ming, and Sophie Zhang
+McHacks project by Marie Payne, Léa Ming, and Sophie Zhang. Written in 24 hours.
 
 /r/Eyebleach: the Chrome extension:
 
