@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+var count = 0;
+chrome.runtime.onMessage.addListener(function(message, sender, function sendResponse{}){
+  count += message;
+  if (count > 2){
+    alert("PANIC!!");
+  } 
+  alert("PANIC!!!!!!!");
+});
+window.alert("PANIC!!!!!!!");
+</script>
+     
+</body>
+</html>
